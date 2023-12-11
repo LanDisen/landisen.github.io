@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year undergraduate student at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/), ma. Now I am a research intern in [CityMind Lab](https://citymind.top/) at [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by Prof.[Yuxuan Liang](https://yuxuanliang.com/). Previously, I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/), advised by Prof.[Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). My research interests include **Time Series Analysis** and **Spatial-temporal Data Mining**.
+I am a third year undergraduate student at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/). Now I am a research intern in [CityMind Lab](https://citymind.top/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by Prof.[Yuxuan Liang](https://yuxuanliang.com/). Previously, I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof.[Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). My research interests include **Time Series Analysis** and **Spatial-temporal Data Mining**.
 
 # Experience
 
@@ -21,7 +21,7 @@ I am a third year undergraduate student at the [School of Computer Science & Eng
 <div class='paper-box-text' markdown="1"> -->
 * **Diffusion Language-Shapelets for Semi-supervised Time-series Classification**           
 Zhen liu, Wenbin Pei, **Disen Lan**, Qianli Ma       
-AAAI 2024  
+**AAAI**, 2024  
 
 
 # Awards
