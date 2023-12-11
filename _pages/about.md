@@ -8,13 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
-Hi, this is Disen Lan, a third year student at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/).
+I am a third year undergraduate student at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/), ma. Now I am a research intern in [CityMind Lab](https://citymind.top/) at [Hong Kong University of Science and Technology](https://www.hkust-gz.edu.cn/), advised by Prof.[Yuxuan Liang](https://yuxuanliang.com/). Previously, I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/), advised by Prof.[Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). My research interests include **Time Series Analysis** and **Spatial-temporal Data Mining**.
 
-# Publication
+# Experience
+
+* Hong Kong University of Science and Technology(Guangzhou), CityMind Lab, Research Intern, 2023.8-Presnet
+* South China University of Technology, Machine Learning and Data Mining Lab, Research Member, 2023.1-Present
+
+# Publications
+
 * **Diffusion Language-Shapelets for Semi-supervised Time-series Classification**
-Zhen liu, Wenbin Pei, **Disen Lan**, Qianli Ma.
-AAAI 2024.
+
+Zhen liu, Wenbin Pei, **Disen Lan**, Qianli Ma
+
+AAAI 2024
+
 
 # Awards
 * National Scholarship, 2022 & 2023 (twice)
