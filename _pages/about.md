@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 excerpt: "Disen Lan's Homepage"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year undergraduate student at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/), ma. Now I am a research intern in [CityMind Lab](https://citymind.top/) at [Hong Kong University of Science and Technology](https://www.hkust-gz.edu.cn/), advised by Prof.[Yuxuan Liang](https://yuxuanliang.com/). Previously, I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/), advised by Prof.[Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). My research interests include **Time Series Analysis** and **Spatial-temporal Data Mining**.
+I am a third year undergraduate student at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/), ma. Now I am a research intern in [CityMind Lab](https://citymind.top/) at [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by Prof.[Yuxuan Liang](https://yuxuanliang.com/). Previously, I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/), advised by Prof.[Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). My research interests include **Time Series Analysis** and **Spatial-temporal Data Mining**.
 
 # Experience
 
-* Hong Kong University of Science and Technology(Guangzhou), CityMind Lab, Research Intern, 2023.8-Presnet
+* Hong Kong University of Science and Technology (Guangzhou), CityMind Lab, Research Intern, 2023.8-Presnet
 * South China University of Technology, Machine Learning and Data Mining Lab, Research Member, 2023.1-Present
 
 # Publications
