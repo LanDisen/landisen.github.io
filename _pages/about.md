@@ -17,11 +17,11 @@ I am a third year undergraduate student at the [School of Computer Science & Eng
 
 # Publications
 
-* **Diffusion Language-Shapelets for Semi-supervised Time-series Classification**
-
-Zhen liu, Wenbin Pei, **Disen Lan**, Qianli Ma
-
-AAAI 2024
+<!-- <div class='paper-box'>
+<div class='paper-box-text' markdown="1"> -->
+* **Diffusion Language-Shapelets for Semi-supervised Time-series Classification**           
+Zhen liu, Wenbin Pei, **Disen Lan**, Qianli Ma       
+AAAI 2024  
 
 
 # Awards

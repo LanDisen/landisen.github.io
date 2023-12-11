@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Disen Lan (蓝迪森)"
-  avatar           : "photo.png" # my photo
+  avatar           : "photo.jpg" # my photo
   bio              : # "Your biography for the left-hand sidebar"
   location         : "Guangzhou, China"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
