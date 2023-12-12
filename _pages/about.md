@@ -22,16 +22,15 @@ GPA: 3.91/4.0 (Rank: 4/166, Top 2.41%)
 
 <img src="images/../../images/logos/HKUST.svg.png" alt="HKUST" style="float: right; margin-right: 20px; ; width: 60px; height: 75px;" />
 
-* **Hong Kong University of Science and Technology (Guangzhou)**, CityMind Lab         
-Research Intern, 2023.8~Present     
-
-<br/>
+* [CityMind Lab](https://citymind.top/), **Hong Kong University of Science and Technology (Guangzhou)**            
+Research Intern, 2023.8~Present    
+Advisor: [Yuxuan Liang](https://yuxuanliang.com/)  
 
 <img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
 
-
-* **South China University of Technology**, Machine Learning and Data Mining Lab         
-Research Intern, 2023.1~Present        
+* [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/), **South China University of Technology**            
+Research Intern, 2023.1~Present    
+Advisor: [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm)       
 
 # Publications
 
