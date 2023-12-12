@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year undergraduate student majoring in **Computer Science & Technology** at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/). Now I am a research intern in [CityMind Lab](https://citymind.top/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by Prof. [Yuxuan Liang](https://yuxuanliang.com/). Previously, I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof. [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). My research interests include **Time Series Analysis** and **Spatial-temporal Data Mining**.
+I am a third year undergraduate student majoring in **Computer Science** at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/). Now I am a research intern in [CityMind Lab](https://citymind.top/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by Prof. [Yuxuan Liang](https://yuxuanliang.com/). Previously, I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof. [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). My research interests include **Time Series Analysis** and **Spatial-temporal Data Mining**.
 
 # Education
 
-<img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 95px; height: 95px;" />
+<img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 90px; height: 90px;" />
 
 * **South China University of Technology**, Guangzhou, China           
 B.E. in Computer Science & Technology, 2021~2025(expected)         
@@ -20,8 +20,15 @@ GPA: 3.91/4.0 (Rank: 4/166, Top 2.41%)
 
 # Experience
 
-* Hong Kong University of Science and Technology (Guangzhou), CityMind Lab, Research Intern, 2023.8~Present
-* South China University of Technology, Machine Learning and Data Mining Lab, Research Member, 2023.1 ~Present
+<img src="images/../../images/logos/HKUST.svg.png" alt="HKUST" style="float: right; margin-right: 10px; ; width: 70px; height: 90px;" />
+
+* **Hong Kong University of Science and Technology (Guangzhou)**, CityMind Lab         
+Research Intern, 2023.8~Present     
+
+<img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 90px; height: 90px;" />
+
+* **South China University of Technology**, Machine Learning and Data Mining Lab         
+Research Member, 2023.1~Present        
 
 # Publications
 
