@@ -16,7 +16,7 @@ I am a third year undergraduate student majoring in **Computer Science** at the 
 
 * **South China University of Technology**, Guangzhou, China           
 B.E. in Computer Science & Technology, 2021~2025(expected)         
-GPA: 3.91/4.0 (Rank: 4/166, Top 2.41%)        
+GPA: 3.91/4.0 (Rank: 4/166, top 2.41%)        
 
 # Experience
 
@@ -48,7 +48,7 @@ Zhen Liu, Wenbin Pei, **Disen Lan**, Qianli Ma
 * China Undergraduate Mathematical Contest in Modeling (Guangdong): First Price, 2023
 * The Chinese Mathematics Competitions (Guangdong): First Prize, 2022
 * Asia and Pacific Mathematical Contest in Modeling (APMCM): Second Prize, 2023
-* Guangdong Hong Kong Macao Greater Bay Area Cup Financial Mathematical Modeling Competition: First Prize, 2022
+* Greater Bay Area Cup Guangdong-Hong Kong-Macao Financial Mathematical Modeling Competition: First Prize, 2022
 * MathorCup College Mathematical Modeling Challenge: Third Prize, 2023 
 
 <!-- A data-driven personal website
