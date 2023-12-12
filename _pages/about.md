@@ -20,7 +20,7 @@ GPA: 3.91/4.0 (Rank: 4/166, Top 2.41%)
 
 # Experience
 
-<img src="images/../../images/logos/HKUST.svg.png" alt="HKUST" style="float: right; margin-right: 20px; ; width: 60px; height: 75px;" />
+<img src="images/../../images/logos/HKUST.svg.png" alt="HKUST" style="float: right; margin-right: 20px; ; width: 60px; height: 80px;" />
 
 * [CityMind Lab](https://citymind.top/), **Hong Kong University of Science and Technology (Guangzhou)**            
 Research Intern, 2023.8~Present    
