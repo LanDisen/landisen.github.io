@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year undergraduate student at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/). Now I am a research intern in [CityMind Lab](https://citymind.top/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by Prof.[Yuxuan Liang](https://yuxuanliang.com/). Previously, I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof.[Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). My research interests include **Time Series Analysis** and **Spatial-temporal Data Mining**.
+I am a third year undergraduate student at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/). Now I am a research intern in [CityMind Lab](https://citymind.top/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by Prof. [Yuxuan Liang](https://yuxuanliang.com/). Previously, I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof. [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). My research interests include **Time Series Analysis** and **Spatial-temporal Data Mining**.
 
 # Experience
 
-* Hong Kong University of Science and Technology (Guangzhou), CityMind Lab, Research Intern, 2023.8-Presnet
+* Hong Kong University of Science and Technology (Guangzhou), CityMind Lab, Research Intern, 2023.8-Present
 * South China University of Technology, Machine Learning and Data Mining Lab, Research Member, 2023.1-Present
 
 # Publications
@@ -27,11 +27,11 @@ Zhen Liu, Wenbin Pei, **Disen Lan**, Qianli Ma
 # Awards
 * National Scholarship, 2022 & 2023 (twice)
 * Tencent Enterprise First Prize Scholarship, 2023
-* Interdisciplinary Contest In Modeling(ICM): Finalist, 2023
-* China Undergraduate Mathematical Contest in Modeling(Guangdong): First Price, 2023
-* The Chinese Mathematics Competitions(Guangdong): First Prize, 2022
-* Asia and Pacific Mathematical Contest in Modeling(APMCM): Second Prize, 2023
-* Guangdong Hong Kong Macao Financial Mathematical Modeling Competition: First Prize, 2022
+* Interdisciplinary Contest In Modeling (ICM): Finalist, 2023
+* China Undergraduate Mathematical Contest in Modeling (Guangdong): First Price, 2023
+* The Chinese Mathematics Competitions (Guangdong): First Prize, 2022
+* Asia and Pacific Mathematical Contest in Modeling (APMCM): Second Prize, 2023
+* Guangdong Hong Kong Macao Greater Bay Area Cup Financial Mathematical Modeling Competition: First Prize, 2022
 * MathorCup College Mathematical Modeling Challenge: Third Prize, 2023 
 
 <!-- A data-driven personal website
