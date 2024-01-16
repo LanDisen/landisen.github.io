@@ -37,8 +37,9 @@ Advisor: [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm)
 <!-- <div class='paper-box'>
 <div class='paper-box-text' markdown="1"> -->
 * **Diffusion Language-Shapelets for Semi-supervised Time-series Classification**           
-Zhen Liu, Wenbin Pei, **Disen Lan**, Qianli Ma       
-**AAAI**, 2024  
+Zhen Liu, Wenbin Pei, **Disen Lan**, Qianli Ma*       
+AAAI, 2024  
+[[Paper]](https://www2.scut.edu.cn/_upload/article/files/3e/ad/9dd713894e5e84c910f2f03a804a/29c80cf8-ed6f-4032-b3c7-f3717bc4f22d.pdf) [[Code]](https://github.com/qianlima-lab/DiffShape)
 
 
 # Awards
