@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year undergraduate student majoring in **Computer Science** at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/). Now I am a research intern in [CityMind Lab](https://citymind.top/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by Prof. [Yuxuan Liang](https://yuxuanliang.com/). Previously, I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof. [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). My research interests include **Time Series Modeling**, **Graph Learning** and **Spatio-temporal Data Mining**.
+I am a 3rd-year undergraduate student majoring in **Computer Science** at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/). Now I am a research intern in [CityMind Lab](https://citymind.top/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by Prof. [Yuxuan Liang](https://yuxuanliang.com/). Previously, I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof. [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). My research interests include **Time Series Modeling**, **Graph Learning** and **Spatio-temporal Data Mining**.
 
 # Education
 
@@ -38,8 +38,7 @@ Advisor: [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm)
 <div class='paper-box-text' markdown="1"> -->
 * **Diffusion Language-Shapelets for Semi-supervised Time-series Classification**           
 Zhen Liu, Wenbin Pei, **Disen Lan**, Qianli Ma*       
-AAAI, 2024  
-[[Paper]](https://www2.scut.edu.cn/_upload/article/files/3e/ad/9dd713894e5e84c910f2f03a804a/29c80cf8-ed6f-4032-b3c7-f3717bc4f22d.pdf) [[Code]](https://github.com/qianlima-lab/DiffShape)
+AAAI, 2024. [[Paper]](https://www2.scut.edu.cn/_upload/article/files/3e/ad/9dd713894e5e84c910f2f03a804a/29c80cf8-ed6f-4032-b3c7-f3717bc4f22d.pdf) [[Code]](https://github.com/qianlima-lab/DiffShape)
 
 
 # Awards
@@ -50,7 +49,7 @@ AAAI, 2024
 * The Chinese Mathematics Competitions (Guangdong): First Prize, 2022
 * Asia and Pacific Mathematical Contest in Modeling (APMCM): Second Prize, 2023
 * Greater Bay Area Cup Guangdong-Hong Kong-Macao Financial Mathematical Modeling Competition: First Prize, 2022
-* MathorCup College Mathematical Modeling Challenge: Third Prize, 2023 
+<!-- * MathorCup College Mathematical Modeling Challenge: Third Prize, 2023  -->
 
 <!-- A data-driven personal website
 ======
