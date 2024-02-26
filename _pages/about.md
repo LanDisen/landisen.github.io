@@ -45,7 +45,7 @@ AAAI, 2024. [[Paper]](https://www2.scut.edu.cn/_upload/article/files/3e/ad/9dd71
 * National Scholarship, 2022 & 2023 (twice)
 * Tencent Enterprise First Prize Scholarship, 2023
 * Interdisciplinary Contest In Modeling (ICM): Finalist, 2023
-* China Undergraduate Mathematical Contest in Modeling (Guangdong): First Price, 2023
+* China Undergraduate Mathematical Contest in Modeling (Guangdong): First Prize, 2023
 * The Chinese Mathematics Competitions (Guangdong): First Prize, 2022
 * Asia and Pacific Mathematical Contest in Modeling (APMCM): Second Prize, 2023
 * Greater Bay Area Cup Guangdong-Hong Kong-Macao Financial Mathematical Modeling Competition: First Prize, 2022
