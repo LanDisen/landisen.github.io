@@ -10,6 +10,11 @@ redirect_from:
 
 I am a 3rd-year undergraduate student majoring in **Computer Science** at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/). Now I am a research intern in [CityMind Lab](https://citymind.top/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by Prof. [Yuxuan Liang](https://yuxuanliang.com/). Previously, I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof. [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). My research interests include **Time Series Modeling**, **Graph Learning** and **Spatio-temporal Data Mining**.
 
+# News
+- [Feb. 2024] One paper regarding *Graph Learning* is submitted to **IJCAI'24**
+- [Dec. 2023] [DiffShape](https://www2.scut.edu.cn/_upload/article/files/3e/ad/9dd713894e5e84c910f2f03a804a/29c80cf8-ed6f-4032-b3c7-f3717bc4f22d.pdf) is accepted to **AAAI'24**
+- [Aug. 2023] One paper regarding *SSL for Time-series* is submitted to **AAAI'24**
+
 # Education
 
 <img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
@@ -37,11 +42,11 @@ Advisor: [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm)
 <!-- <div class='paper-box'>
 <div class='paper-box-text' markdown="1"> -->
 * **Diffusion Language-Shapelets for Semi-supervised Time-series Classification**           
-Zhen Liu, Wenbin Pei, **Disen Lan**, Qianli Ma*       
+Zhen Liu, Wenbin Pei, **Disen Lan**, Qianli Ma       
 AAAI, 2024. [[Paper]](https://www2.scut.edu.cn/_upload/article/files/3e/ad/9dd713894e5e84c910f2f03a804a/29c80cf8-ed6f-4032-b3c7-f3717bc4f22d.pdf) [[Code]](https://github.com/qianlima-lab/DiffShape)
 
 
-# Awards
+# Honors & Awards
 * National Scholarship, 2022 & 2023 (twice)
 * Tencent Enterprise First Prize Scholarship, 2023
 * Interdisciplinary Contest In Modeling (ICM): Finalist, 2023
