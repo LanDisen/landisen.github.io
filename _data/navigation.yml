@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Education"
-    url: /#-Education
+  # - title: "Education"
+  #   url: /#-Education
 
-  - title: "Publications"
-    url: /#-publications
+  # - title: "Publications"
+  #   url: /#-publications
 
-  - title: "Honors & Awards"
-    url: "/#-honors-&-awards"
+  # - title: "Honors & Awards"
+  #   url: "/#-honors-&-awards"
 
   # - title: "Talks"
   #   url: /talks/    
