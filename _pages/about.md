@@ -21,7 +21,7 @@ I am a 3rd-year undergraduate student majoring in **Computer Science** at the [S
 <img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
 
 * **South China University of Technology**, Guangzhou, China           
-B.E. in Computer Science & Technology, 2021~2025(expected)         
+B.E. in Computer Science, 2021~2025 (expected)         
 GPA: 3.92/4.0 (Rank: 4/166, top 2.41%)        
 
 # Experience
