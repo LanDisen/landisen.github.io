@@ -53,6 +53,7 @@ Zhen Liu, Wenbin Pei, **Disen Lan**, Qianli Ma
 * Interdisciplinary Contest In Modeling (ICM): Finalist, 2023
 * China Undergraduate Mathematical Contest in Modeling (Guangdong): First Prize, 2023
 * The Chinese Mathematics Competitions (Guangdong): First Prize, 2022
+* Lan Qiao Cup National Software and Information Technology Professional Talent Competition (Guangdong): First Prize, 2024
 * Asia and Pacific Mathematical Contest in Modeling (APMCM): Second Prize, 2023
 * Greater Bay Area Cup Guangdong-Hong Kong-Macao Financial Mathematical Modeling Competition: First Prize, 2022
 <!-- * MathorCup College Mathematical Modeling Challenge: Third Prize, 2023  -->
