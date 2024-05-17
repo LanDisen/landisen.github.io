@@ -23,15 +23,16 @@ I am a 3rd-year undergraduate student majoring in **Computer Science** at the [S
 <img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
 
 * **South China University of Technology**, Guangzhou, China           
-B.E. in Computer Science, 2021 ~ 2025 (expected)         
+B.E. in Computer Science, 2021~2025 (expected)         
 GPA: 3.92/4.0 (Rank: 4/166, top 2.41%)        
 
 # Experience
 
-<img src="images/../../images/logos/tencent.png" alt="Tencent" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
+<img src="images/../../images/logos/tencent.png" alt="Tencent" style="float: right; margin-right: 10px; ; width: 150px; height: 30px;" />
 
 * **Tencent**            
 Algorithm Research Intern @ [Tencent](https://www.tencent.com/), 2024.6 ~ Present    
+Research Topic: Time series behavior prediction and mining
 
 <img src="images/../../images/logos/HKUST.svg.png" alt="HKUST" style="float: right; margin-right: 20px; ; width: 60px; height: 80px;" />
 
