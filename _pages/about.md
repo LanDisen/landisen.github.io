@@ -28,7 +28,7 @@ GPA: 3.92/4.0 (Rank: 4/166, top 2.41%)
 
 # Experience
 
-<img src="images/../../images/logos/tencent.png" alt="Tencent" style="float: right; margin-right: 10px; ; width: 150px; height: 30px;" />
+<img src="images/../../images/logos/tencent.png" alt="Tencent" style="float: right; margin-right: 5px;margin-top: 30px; ; width: 150px; height: 30px;" />
 
 * **Tencent**            
 Algorithm Research Intern @ [Tencent](https://www.tencent.com/), 2024.6 ~ Present    
