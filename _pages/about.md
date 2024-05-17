@@ -11,6 +11,7 @@ redirect_from:
 I am a 3rd-year undergraduate student majoring in **Computer Science** at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/). Now I am a research intern in [CityMind Lab](https://citymind.top/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by Prof. [Yuxuan Liang](https://yuxuanliang.com/). Previously, I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof. [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). My research interests include **Time Series Modeling**, **Graph Learning** and **Spatio-temporal Data Mining**.
 
 # News
+- [May. 2024] Two paper regarding *Time-series Modeling* and *Graph Learning* are submitted to **NeurIPS'24**
 - [Mar. 2024] One paper regarding *Time-series Modeling* is submitted to **ECML-PKDD'24**
 - [Feb. 2024] One paper regarding *Graph Learning* is submitted to **IJCAI'24**
 - [Dec. 2023] [DiffShape](https://www2.scut.edu.cn/_upload/article/files/3e/ad/9dd713894e5e84c910f2f03a804a/29c80cf8-ed6f-4032-b3c7-f3717bc4f22d.pdf) is accepted to **AAAI'24**
@@ -28,14 +29,20 @@ GPA: 3.92/4.0 (Rank: 4/166, top 2.41%)
 
 <img src="images/../../images/logos/HKUST.svg.png" alt="HKUST" style="float: right; margin-right: 20px; ; width: 60px; height: 80px;" />
 
+* **Tencent**            
+Algorithm Research Intern @ [Tencent](https://www.tencent.com/), 2024.6 ~ Present    
+
+<img src="images/../../images/logos/rzqe.jpg" alt="Tencent" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
+
+
 * **The Hong Kong University of Science and Technology (Guangzhou)**            
-Research Intern @ [CityMind Lab](https://citymind.top/), 2023.8~Present    
+Research Intern @ [CityMind Lab](https://citymind.top/), 2023.8 ~ 2024.5    
 Advisor: [Yuxuan Liang](https://yuxuanliang.com/)  
 
 <img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
 
 * **South China University of Technology**            
-Research Intern @ [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/), 2023.1~Present    
+Research Intern @ [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/), 2023.3 ~ 2023.8   
 Advisor: [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm)       
 
 # Publications
@@ -44,8 +51,7 @@ Advisor: [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm)
 <div class='paper-box-text' markdown="1"> -->
 * **Diffusion Language-Shapelets for Semi-supervised Time-series Classification**           
 Zhen Liu, Wenbin Pei, **Disen Lan**, Qianli Ma       
-*AAAI, 2024.* [[Paper]](https://www2.scut.edu.cn/_upload/article/files/3e/ad/9dd713894e5e84c910f2f03a804a/29c80cf8-ed6f-4032-b3c7-f3717bc4f22d.pdf) [[Code]](https://github.com/qianlima-lab/DiffShape)
-
+AAAI, 2024. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29317) [[Code]](https://github.com/qianlima-lab/DiffShape)
 
 # Honors & Awards
 * National Scholarship, 2022 & 2023 (twice)
@@ -53,7 +59,7 @@ Zhen Liu, Wenbin Pei, **Disen Lan**, Qianli Ma
 * Interdisciplinary Contest In Modeling (ICM): Finalist, 2023
 * China Undergraduate Mathematical Contest in Modeling (Guangdong): First Prize, 2023
 * The Chinese Mathematics Competitions (Guangdong): First Prize, 2022
-* Lan Qiao Cup National Software and Information Technology Professional Talent Competition (Guangdong): First Prize, 2024
+* Lan Qiao Cup Programming Competitions (Guangdong): First Prize, 2024
 * Asia and Pacific Mathematical Contest in Modeling (APMCM): Second Prize, 2023
 * Greater Bay Area Cup Guangdong-Hong Kong-Macao Financial Mathematical Modeling Competition: First Prize, 2022
 <!-- * MathorCup College Mathematical Modeling Challenge: Third Prize, 2023  -->
