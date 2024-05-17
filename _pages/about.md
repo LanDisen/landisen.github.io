@@ -27,13 +27,12 @@ GPA: 3.92/4.0 (Rank: 4/166, top 2.41%)
 
 # Experience
 
-<img src="images/../../images/logos/HKUST.svg.png" alt="HKUST" style="float: right; margin-right: 20px; ; width: 60px; height: 80px;" />
+<img src="images/../../images/logos/rzqe.jpg" alt="Tencent" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
 
 * **Tencent**            
 Algorithm Research Intern @ [Tencent](https://www.tencent.com/), 2024.6 ~ Present    
 
-<img src="images/../../images/logos/rzqe.jpg" alt="Tencent" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
-
+<img src="images/../../images/logos/HKUST.svg.png" alt="HKUST" style="float: right; margin-right: 20px; ; width: 60px; height: 80px;" />
 
 * **The Hong Kong University of Science and Technology (Guangzhou)**            
 Research Intern @ [CityMind Lab](https://citymind.top/), 2023.8 ~ 2024.5    
