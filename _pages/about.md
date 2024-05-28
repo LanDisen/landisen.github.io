@@ -13,9 +13,9 @@ I am a 3rd-year undergraduate student majoring in **Computer Science** at the [S
 # News
 - [May. 2024] One paper regarding *Time-series Modeling* is submitted to **NeurIPS'24**
 - [May. 2024] One paper regarding *Graph Learning* is submitted to **NeurIPS'24**
-- [Mar. 2024] One paper regarding *Time-series Modeling* is submitted to **ECML-PKDD'24**
-- [Feb. 2024] One paper regarding *Graph Learning* is submitted to **IJCAI'24**
-- [Dec. 2023] [DiffShape](https://www2.scut.edu.cn/_upload/article/files/3e/ad/9dd713894e5e84c910f2f03a804a/29c80cf8-ed6f-4032-b3c7-f3717bc4f22d.pdf) is accepted to **AAAI'24**
+- [Mar. 2024] One paper regarding *Time-series Modeling* is submitted to **ECML-PKDD'24** (All reviews are positive)
+<!-- - [Feb. 2024] One paper regarding *Graph Learning* is submitted to **IJCAI'24** -->
+- [Dec. 2023] [DiffShape](https://ojs.aaai.org/index.php/AAAI/article/view/29317) is accepted to **AAAI'24**
 - [Aug. 2023] One paper regarding *SSL for Time-series* is submitted to **AAAI'24**
 
 # Education
@@ -28,7 +28,7 @@ GPA: 3.92/4.0 (Rank: 4/166, top 2.41%)
 
 # Experience
 
-<img src="images/../../images/logos/tencent.png" alt="Tencent" style="float: right; margin-right: 5px;margin-top: 30px; ; width: 150px; height: 30px;" />
+<img src="images/../../images/logos/tencent.png" alt="Tencent" style="float: right; margin-right: -18px;margin-top: 30px; ; width: 150px; height: 30px;" />
 
 * **Tencent**            
 Algorithm Research Intern @ [Tencent](https://www.tencent.com/), 2024.6 ~ Present    
@@ -53,6 +53,11 @@ Advisor: [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm)
 * **Diffusion Language-Shapelets for Semi-supervised Time-series Classification**           
 Zhen Liu, Wenbin Pei, **Disen Lan**, Qianli Ma       
 AAAI, 2024. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29317) [[Code]](https://github.com/qianlima-lab/DiffShape)
+
+* **Time-SSM: Simplifying and Unifying State Space Models for Time Series Forecasting**           
+Jiaxi Hu, **Disen Lan**, Ziyu Zhou, Qingsong Wen, Yuxuan Liang     
+arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2405.16312) 
+
 
 # Honors & Awards
 * National Scholarship, 2022 & 2023 (twice)
