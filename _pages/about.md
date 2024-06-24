@@ -12,9 +12,9 @@ I am a $3^{rd}$-year undergraduate student majoring in **Computer Science** at t
 
 My research interests include:
 
-- Multi-model Learning and Sequence Data Modeling (language, image, video, time series, et al.)
-- Deep Generative Model, especially Large Language Model and Diffusion Model
-- Spatio-temporal Data Modeling and Mining
+- **Multi-model Learning**, include *language, vision, time series, video*, et al. 
+- **Deep Generative Model**, especially *Large Language Model and Diffusion Model*
+- **Spatio-temporal Data Mining**: perception, prediction and generation 
 
 
 # News
