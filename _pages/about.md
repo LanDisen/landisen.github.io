@@ -8,15 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd-year undergraduate student majoring in **Computer Science** at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/). Now I am a research intern in [CityMind Lab](https://citymind.top/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by Prof. [Yuxuan Liang](https://yuxuanliang.com/). Previously, I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof. [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). My research interests include **Time Series Modeling**, **Graph Learning** and **Spatio-temporal Data Mining**.
+I am a $3^{rd}$-year undergraduate student majoring in **Computer Science** at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/). Now I am a research intern in [CityMind Lab](https://citymind.top/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by Prof. [Yuxuan Liang](https://yuxuanliang.com/). Previously, I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof. [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). 
+
+My research interests include:
+
+- Multi-model Learning and Sequence Data Modeling (language, image, video, time series, et al.)
+- Deep Generative Model, especially Large Language Model and Diffusion Model
+- Spatio-temporal Data Modeling and Mining
+
 
 # News
-- [May. 2024] One paper regarding *Time-series Modeling* is submitted to **NeurIPS'24**
-- [May. 2024] One paper regarding *Graph Learning* is submitted to **NeurIPS'24**
-- [Mar. 2024] One paper regarding *Time-series Modeling* is submitted to **ECML-PKDD'24** (All reviews are positive)
+- [05/2024] One paper regarding *Time-series Modeling* is submitted to **NeurIPS'24**
+- [05/2024] One paper regarding *Graph Learning* is submitted to **NeurIPS'24**
+- [03/2024] One paper regarding *Time-series Modeling* is submitted to **ECML-PKDD'24**
 <!-- - [Feb. 2024] One paper regarding *Graph Learning* is submitted to **IJCAI'24** -->
-- [Dec. 2023] [DiffShape](https://ojs.aaai.org/index.php/AAAI/article/view/29317) is accepted to **AAAI'24**
-- [Aug. 2023] One paper regarding *SSL for Time-series* is submitted to **AAAI'24**
+- [12/2023] *[DiffShape](https://ojs.aaai.org/index.php/AAAI/article/view/29317)* is accepted to **AAAI'24**
+- [09/2023] Awarded my *second* **National Scholarship** (top 0.2% nationwide)
+- [08/2023] One paper regarding *SSL for Time-series* is submitted to **AAAI'24**
+- [09/2022] Awarded **National Scholarship** (top 0.2% nationwide)
 
 # Education
 
@@ -60,9 +69,9 @@ arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2405.16312)
 
 
 # Honors & Awards
-* National Scholarship, 2022 & 2023 (twice)
+* National Scholarship, 2022 & 2023 (twice, top 0.2% nationwide)
 * Tencent Enterprise First Prize Scholarship, 2023
-* Interdisciplinary Contest In Modeling (ICM): Finalist, 2023
+* Interdisciplinary Contest In Modeling (ICM): Finalist, 2023 (top 2% worldwide)
 * China Undergraduate Mathematical Contest in Modeling (Guangdong): First Prize, 2023
 * The Chinese Mathematics Competitions (Guangdong): First Prize, 2022
 * Lan Qiao Cup Programming Competitions (Guangdong): First Prize, 2024
