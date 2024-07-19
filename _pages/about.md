@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year undergraduate student majoring in **Computer Science** at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/). Besides, I am an incoming Ph.D. at [Fudan University](https://www.fudan.edu.cn/) for 2025 fall intake, adn I will conduct research research at the [Shangha Artificial Intelligence Laboratory](https://www.shlab.org.cn/). My research interests include:
+I am a final year undergraduate student majoring in **Computer Science** at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/). Besides, I am an incoming Ph.D. at [Fudan University](https://www.fudan.edu.cn/) for 2025 fall intake, and I will conduct research research at the [Shangha Artificial Intelligence Laboratory](https://www.shlab.org.cn/). My research interests include:
 
 <!-- Now I am a research intern in [CityMind Lab](https://citymind.top/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by Prof. [Yuxuan Liang](https://yuxuanliang.com/). Previously, I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof. [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm).  -->
 
@@ -19,7 +19,7 @@ I am a final year undergraduate student majoring in **Computer Science** at the 
 
 
 # News
-- [06/2024] Be an incoming 25 fall Ph.D. candidate at **Fudan University & Shanghai AI Lab**!
+- [06/2024] Be an incoming 25 fall Ph.D. at **Fudan University & Shanghai AI Lab**!
 - [05/2024] One paper regarding *Time-series Modeling* is submitted to **NeurIPS'24**
 - [05/2024] One paper regarding *Graph Learning* is submitted to **NeurIPS'24**
 - [03/2024] One paper regarding *Time-series Modeling* is submitted to **ECML-PKDD'24**
@@ -34,7 +34,7 @@ I am a final year undergraduate student majoring in **Computer Science** at the 
 <img src="images/../../images/logos/fudan.png" alt="Fudan" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
 
 * **Fudan University**, Shanghai, China           
-Ph.D. in Computer Science, 2025 ~ 2030 (expected)    
+Ph.D. candidate in Computer Science, 2025 ~ 2030 (expected)    
 Adviser: [Yu Cheng](https://ych133.github.io/)    
 
 <img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
@@ -55,14 +55,14 @@ Advisor: [Yu Cheng](https://ych133.github.io/)   -->
 <img src="images/../../images/logos/tencent.png" alt="Tencent" style="float: right; margin-right: -18px;margin-top: 30px; ; width: 150px; height: 30px;" />
 
 * **Tencent**            
-Algorithm Research Intern @ [Tencent](https://www.tencent.com/), 2024.6 ~ Present  
-Research Topic: Time series behavior pretraining & natural language processing
+Algorithm Research Intern @ [Tencent](https://www.tencent.com/), 2024.6 ~ Present 
+Research Topic: Time series behavior analysis & Natural Language Processing
 
 <img src="images/../../images/logos/HKUST.svg.png" alt="HKUST" style="float: right; margin-right: 20px; ; width: 60px; height: 80px;" />
 
 * **The Hong Kong University of Science and Technology (Guangzhou)**            
-Research Intern @ [CityMind Lab](https://citymind.top/), 2023.8 ~ 2024.5 
-Research Topic: Time series analysis & spatio temporal data mining   
+Research Intern @ [CityMind Lab](https://citymind.top/), 2023.8 ~ 2024.5  
+Research Topic: Time series analysis & Spatio-temporal data mining  
 Advisor: [Yuxuan Liang](https://yuxuanliang.com/)  
 
 <img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
