@@ -55,22 +55,27 @@ Advisor: [Yu Cheng](https://ych133.github.io/)   -->
 <img src="images/../../images/logos/tencent.png" alt="Tencent" style="float: right; margin-right: -18px;margin-top: 30px; ; width: 150px; height: 30px;" />
 
 - **Tencent**            
-Algorithm Research Intern @ [Tencent](https://www.tencent.com/), 2024.6 ~ Present 
-Research Topic: Time series behavior analysis & Natural Language Processing
+  Algorithm Research Intern @ [Tencent](https://www.tencent.com/), 2024.6 ~ Present 
+  
+  Research Topic: Time series behavior analysis & Natural Language Processing
 
 <img src="images/../../images/logos/HKUST.svg.png" alt="HKUST" style="float: right; margin-right: 20px; ; width: 60px; height: 80px;" />
 
 - **The Hong Kong University of Science and Technology (Guangzhou)**            
-Research Intern @ [CityMind Lab](https://citymind.top/), 2023.8 ~ 2024.5  
-Research Topic: Time series analysis & Spatio-temporal data mining  
-Advisor: [Yuxuan Liang](https://yuxuanliang.com/)  
+  Research Intern @ [CityMind Lab](https://citymind.top/), 2023.8 ~ 2024.5  
+
+  Research Topic: Time series analysis & Spatio-temporal data mining  
+
+  Advisor: [Yuxuan Liang](https://yuxuanliang.com/)  
 
 <img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
 
 - **South China University of Technology**            
-Research Intern @ [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/), 2023.3 ~ 2023.8   
-Research Topic: Time series analysis
-Advisor: [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm)       
+  Research Intern @ [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/), 2023.3 ~ 2023.8   
+
+  Research Topic: Time series analysis
+
+  Advisor: [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm)       
 
 # Publications
 
