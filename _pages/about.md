@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a $3^{rd}$-year undergraduate student majoring in **Computer Science** at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/). Now I am a research intern in [CityMind Lab](https://citymind.top/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by Prof. [Yuxuan Liang](https://yuxuanliang.com/). Previously, I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof. [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm). 
+I am a final year undergraduate student majoring in **Computer Science** at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/). Besides, I am an incoming Ph.D. at [Fudan University](https://www.fudan.edu.cn/) for 2025 fall intake, adn I will conduct research research at the [Shangha Artificial Intelligence Laboratory](https://www.shlab.org.cn/). My research interests include:
 
-My research interests include:
+<!-- Now I am a research intern in [CityMind Lab](https://citymind.top/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by Prof. [Yuxuan Liang](https://yuxuanliang.com/). Previously, I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof. [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm).  -->
+
 
 - **Multi-model Learning**, include *language, vision, time series, video*, et al. 
 - **Deep Generative Model**, especially *Large Language Model and Diffusion Model*
@@ -18,6 +19,7 @@ My research interests include:
 
 
 # News
+- [06/2024] Be an incoming 25 fall Ph.D. candidate at **Fudan University & Shanghai AI Lab**!
 - [05/2024] One paper regarding *Time-series Modeling* is submitted to **NeurIPS'24**
 - [05/2024] One paper regarding *Graph Learning* is submitted to **NeurIPS'24**
 - [03/2024] One paper regarding *Time-series Modeling* is submitted to **ECML-PKDD'24**
@@ -29,30 +31,45 @@ My research interests include:
 
 # Education
 
+<img src="images/../../images/logos/fudan.png" alt="Fudan" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
+
+* **Fudan University**, Shanghai, China           
+Ph.D. in Computer Science, 2025 ~ 2030 (expected)    
+Adviser: [Yu Cheng](https://ych133.github.io/)    
+
 <img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
 
 * **South China University of Technology**, Guangzhou, China           
-B.E. in Computer Science, 2021~2025 (expected)         
-GPA: 3.92/4.0 (Rank: 4/166, top 2.41%)        
+B.E. in Computer Science, 2021 ~ 2025 (expected)         
+GPA: 3.9/4.0 (top 3%)        
 
 # Experience
+
+<!-- <img src="images/../../images/logos/ailab.png" alt="ailab" style="float: right; margin-right: 0px; ; width: 110px; height: 80px;" />
+
+* **Shanghai Artificial Intelligence Laboratory**            
+Research Intern @ [?](), 2024.? ~ 2024.?
+Research Topic: Efficient & Multimodel large language models
+Advisor: [Yu Cheng](https://ych133.github.io/)   -->
 
 <img src="images/../../images/logos/tencent.png" alt="Tencent" style="float: right; margin-right: -18px;margin-top: 30px; ; width: 150px; height: 30px;" />
 
 * **Tencent**            
-Algorithm Research Intern @ [Tencent](https://www.tencent.com/), 2024.6 ~ Present    
-Research Topic: Time series behavior prediction and mining
+Algorithm Research Intern @ [Tencent](https://www.tencent.com/), 2024.6 ~ Present  
+Research Topic: Time series behavior pretraining & natural language processing
 
 <img src="images/../../images/logos/HKUST.svg.png" alt="HKUST" style="float: right; margin-right: 20px; ; width: 60px; height: 80px;" />
 
 * **The Hong Kong University of Science and Technology (Guangzhou)**            
-Research Intern @ [CityMind Lab](https://citymind.top/), 2023.8 ~ 2024.5    
+Research Intern @ [CityMind Lab](https://citymind.top/), 2023.8 ~ 2024.5 
+Research Topic: Time series analysis & spatio temporal data mining   
 Advisor: [Yuxuan Liang](https://yuxuanliang.com/)  
 
 <img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
 
 * **South China University of Technology**            
 Research Intern @ [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/), 2023.3 ~ 2023.8   
+Research Topic: Time series analysis
 Advisor: [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm)       
 
 # Publications
