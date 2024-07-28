@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year undergraduate student majoring in **Computer Science** at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/). Besides, I am an incoming Ph.D. at [Fudan University](https://www.fudan.edu.cn/) for 2025 fall intake, and I will conduct research at the [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/). My research interests include:
+I am a $3^{rd}$ year undergraduate student majoring in **Computer Science** at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/). Besides, I am an incoming Ph.D. at [Fudan University](https://www.fudan.edu.cn/) for 2025 fall intake, and I will conduct research at the [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/). My research interests include:
 
 <!-- Now I am a research intern in [CityMind Lab](https://citymind.top/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by Prof. [Yuxuan Liang](https://yuxuanliang.com/). Previously, I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof. [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm).  -->
 
@@ -19,7 +19,7 @@ I am a final year undergraduate student majoring in **Computer Science** at the 
 
 
 # News
-- [06/2024] Be an incoming 25 fall Ph.D. at **Fudan University & Shanghai AI Lab**!
+<!-- - [06/2024] Be an incoming 25 fall Ph.D. at **Fudan University & Shanghai AI Lab**! -->
 - [05/2024] One paper regarding *Time-series Modeling* is submitted to **NeurIPS'24**
 - [05/2024] One paper regarding *Graph Learning* is submitted to **NeurIPS'24**
 - [03/2024] One paper regarding *Time-series Modeling* is submitted to **ECML-PKDD'24**
@@ -31,11 +31,11 @@ I am a final year undergraduate student majoring in **Computer Science** at the 
 
 # Education
 
-<img src="images/../../images/logos/fudan.png" alt="Fudan" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
+<!-- <img src="images/../../images/logos/fudan.png" alt="Fudan" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
 
 - **Fudan University**, Shanghai, China           
 Ph.D. candidate in Computer Science, 2025 ~ 2030 (expected)    
-Adviser: [Yu Cheng](https://ych133.github.io/)    
+Adviser: [Yu Cheng](https://ych133.github.io/)     -->
 
 <img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
 
@@ -48,7 +48,7 @@ GPA: 3.9/4.0 (top 3%)
 <!-- <img src="images/../../images/logos/ailab.png" alt="ailab" style="float: right; margin-right: 0px; ; width: 110px; height: 80px;" />
 
 * **Shanghai Artificial Intelligence Laboratory**            
-Research Intern @ [?](), 2024.? ~ 2024.?
+Research Intern @ [?](), 2024.8 ~ Present
 Research Topic: Efficient & Multimodel large language models
 Advisor: [Yu Cheng](https://ych133.github.io/)   -->
 
