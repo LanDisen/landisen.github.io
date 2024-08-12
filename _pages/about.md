@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a $3^{rd}$ year undergraduate student majoring in **Computer Science** at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/). Besides, I am an incoming Ph.D. at [Fudan University](https://www.fudan.edu.cn/) for 2025 fall intake, and I will conduct research at the [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/). My research interests include:
+I am a $3^{rd}$ year undergraduate student majoring in **Computer Science** at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/).  My research interests include:
+
+<!-- Besides, I am an incoming Ph.D. at [Fudan University](https://www.fudan.edu.cn/) for 2025 fall intake, and I will conduct research at the [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/). -->
 
 <!-- Now I am a research intern in [CityMind Lab](https://citymind.top/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by Prof. [Yuxuan Liang](https://yuxuanliang.com/). Previously, I joined [Machine Learning and Data Mining Lab](https://www2.scut.edu.cn/qianlima/) at [SCUT](https://www.scut.edu.cn/), advised by Prof. [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm).  -->
 
@@ -20,6 +22,7 @@ I am a $3^{rd}$ year undergraduate student majoring in **Computer Science** at t
 
 # News
 <!-- - [06/2024] Be an incoming 25 fall Ph.D. at **Fudan University & Shanghai AI Lab**! -->
+- [08/2024] Three papers are submitted to **AAAI'25**
 - [05/2024] One paper regarding *Time-series Modeling* is submitted to **NeurIPS'24**
 - [05/2024] One paper regarding *Graph Learning* is submitted to **NeurIPS'24**
 - [03/2024] One paper regarding *Time-series Modeling* is submitted to **ECML-PKDD'24**
