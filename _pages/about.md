@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a $3^{rd}$ year undergraduate student majoring in **Computer Science** at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/).  My research interests include:
+I am a final year undergraduate student majoring in **Computer Science** at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/).  My research interests include:
 
 <!-- Besides, I am an incoming Ph.D. at [Fudan University](https://www.fudan.edu.cn/) for 2025 fall intake, and I will conduct research at the [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/). -->
 
@@ -22,7 +22,7 @@ I am a $3^{rd}$ year undergraduate student majoring in **Computer Science** at t
 
 # News
 <!-- - [06/2024] Be an incoming 25 fall Ph.D. at **Fudan University & Shanghai AI Lab**! -->
-- [08/2024] Three papers are submitted to **AAAI'25**
+- [08/2024] Two papers are submitted to **AAAI'25**
 - [05/2024] One paper regarding *Time-series Modeling* is submitted to **NeurIPS'24**
 - [05/2024] One paper regarding *Graph Learning* is submitted to **NeurIPS'24**
 - [03/2024] One paper regarding *Time-series Modeling* is submitted to **ECML-PKDD'24**
@@ -48,17 +48,17 @@ GPA: 3.9/4.0 (top 3%)
 
 # Experience
 
-<!-- <img src="images/../../images/logos/ailab.png" alt="ailab" style="float: right; margin-right: 0px; ; width: 110px; height: 80px;" />
+<img src="images/../../images/logos/ailab.png" alt="ailab" style="float: right; margin-right: 0px; ; width: 110px; height: 80px;" />
 
 * **Shanghai Artificial Intelligence Laboratory**            
-Research Intern @ [?](), 2024.8 ~ Present
-Research Topic: Efficient & Multimodel large language models
-Advisor: [Yu Cheng](https://ych133.github.io/)   -->
+Research Intern @ [OpenGVLab](https://github.com/OpenGVLab), 2024.9 ~ Present
+Research Topic: Large Language Models
+Advisor: [Yu Cheng](https://ych133.github.io/)  
 
 <img src="images/../../images/logos/tencent.png" alt="Tencent" style="float: right; margin-right: -18px;margin-top: 30px; ; width: 150px; height: 30px;" />
 
 - **Tencent**            
-  Algorithm Research Intern @ [Tencent](https://www.tencent.com/), 2024.6 ~ Present   
+  Algorithm Research Intern @ [Tencent](https://www.tencent.com/), 2024.6 ~ 2024.8  
   Research Topic: Time series behavior analysis & Natural Language Processing   
 
 <img src="images/../../images/logos/HKUST.svg.png" alt="HKUST" style="float: right; margin-right: 20px; ; width: 60px; height: 80px;" />
