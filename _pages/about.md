@@ -51,8 +51,8 @@ GPA: 3.9/4.0 (top 3%)
 <img src="images/../../images/logos/ailab.png" alt="ailab" style="float: right; margin-right: 0px; ; width: 110px; height: 80px;" />
 
 * **Shanghai Artificial Intelligence Laboratory**            
-Research Intern @ [OpenGVLab](https://github.com/OpenGVLab), 2024.9 ~ Present
-Research Topic: Large Language Models
+Research Intern @ [OpenGVLab](https://github.com/OpenGVLab), 2024.9 ~ Present 
+Research Topic: Large Language Models 
 Advisor: [Yu Cheng](https://ych133.github.io/)  
 
 <img src="images/../../images/logos/tencent.png" alt="Tencent" style="float: right; margin-right: -18px;margin-top: 30px; ; width: 150px; height: 30px;" />
