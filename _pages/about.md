@@ -24,12 +24,13 @@ Currently, I am working as a research intern at [Shanghai Artificial Intelligenc
 
 
 # 🔥 News
-- [09/2024]  Be an incoming 2025 fall Ph.D. at **Fudan University & Shanghai AI Lab**!
+- [09/2024]  I will join **Fudan University & Shanghai AI Lab** as 25 fall Ph.D.
+- [09/2024] Awarded my *third time* **National Scholarship**
 - [09/2024] Served as the reviewer of **ICLR'25**
 - [12/2023] *[DiffShape](https://ojs.aaai.org/index.php/AAAI/article/view/29317)* is accepted to **AAAI'24**
-- [09/2023] Awarded my *second* **National Scholarship** (top 0.2% nationwide)
+- [09/2023] Awarded my *second* **National Scholarship**
 <!-- - [08/2023] One paper regarding *SSL for Time-series* is submitted to **AAAI'24** -->
-- [09/2022] Awarded **National Scholarship** (top 0.2% nationwide)
+- [09/2022] Awarded **National Scholarship** 
 
 <!-- # Education
 
@@ -89,8 +90,9 @@ arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2405.16312)
   Advisor: [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm)       
 
 # 🎖 Honors & Awards
-* National Scholarship, 2022 & 2023 (twice, top 0.2% nationwide)
+* National Scholarship, 2022 & 2023 & 2024 (three times, top 0.2% nationwide)
 * Tencent Enterprise First Prize Scholarship, 2023
+* South China University of Techonology "Hong Ping Chang Qing" Technology Innovation First Prize Scholarship, 2024
 * Interdisciplinary Contest In Modeling (ICM): Finalist, 2023 (top 2% worldwide)
 * China Undergraduate Mathematical Contest in Modeling (Guangdong): First Prize, 2023
 * The Chinese Mathematics Competitions (Guangdong): First Prize, 2022
