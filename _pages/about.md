@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year undergraduate student majoring in **Computer Science** at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/).  My research interests include:
+I am a final year undergraduate student majoring in computer science at the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/), [South China University of Technology](https://www.scut.edu.cn/). Besides, I am an incoming Ph.D. of [School of Computer Science](https://cs.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/) for 2025 fall intake, advised by [Prof. Yu Cheng](https://ych133.github.io) and [Prof. Xipeng Qiu](https://xpqiu.github.io/en.html). 
+
+Currently, I am working as a research intern at [Shanghai Artificial Intelligence Laboratary](https://www.shlab.org.cn/). My research interests include:
 
 <!-- Besides, I am an incoming Ph.D. at [Fudan University](https://www.fudan.edu.cn/) for 2025 fall intake, and I will conduct research at the [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/). -->
 
@@ -17,43 +19,54 @@ I am a final year undergraduate student majoring in **Computer Science** at the 
 
 - **Multi-model Learning**, include *language, vision, time series, video*, et al. 
 - **Deep Generative Model**, especially *Large Language Model and Diffusion Model*
-- **Spatio-temporal Data Mining**: perception, prediction and generation 
+- **Efficient AI**: *Model Compression, Mixture-of-Experts (MoE), Knowledge Distillation*
+- **Spatio-temporal Data Mining**: *perception, prediction and generation* 
 
 
-# News
-<!-- - [06/2024] Be an incoming 25 fall Ph.D. at **Fudan University & Shanghai AI Lab**! -->
-- [08/2024] Two papers are submitted to **AAAI'25**
-- [05/2024] One paper regarding *Time-series Modeling* is submitted to **NeurIPS'24**
-- [05/2024] One paper regarding *Graph Learning* is submitted to **NeurIPS'24**
-- [03/2024] One paper regarding *Time-series Modeling* is submitted to **ECML-PKDD'24**
-<!-- - [Feb. 2024] One paper regarding *Graph Learning* is submitted to **IJCAI'24** -->
+# 🔥 News
+- [09/2024]  Be an incoming 2025 fall Ph.D. at **Fudan University & Shanghai AI Lab**!
+- [09/2024] Served as the reviewer of **ICLR'25**
 - [12/2023] *[DiffShape](https://ojs.aaai.org/index.php/AAAI/article/view/29317)* is accepted to **AAAI'24**
 - [09/2023] Awarded my *second* **National Scholarship** (top 0.2% nationwide)
-- [08/2023] One paper regarding *SSL for Time-series* is submitted to **AAAI'24**
+<!-- - [08/2023] One paper regarding *SSL for Time-series* is submitted to **AAAI'24** -->
 - [09/2022] Awarded **National Scholarship** (top 0.2% nationwide)
 
-# Education
+<!-- # Education
 
-<!-- <img src="images/../../images/logos/fudan.png" alt="Fudan" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
+<img src="images/../../images/logos/fudan.png" alt="Fudan" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
 
 - **Fudan University**, Shanghai, China           
 Ph.D. candidate in Computer Science, 2025 ~ 2030 (expected)    
-Adviser: [Yu Cheng](https://ych133.github.io/)     -->
+Adviser: [Yu Cheng](https://ych133.github.io/)    
 
 <img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
 
 - **South China University of Technology**, Guangzhou, China           
 B.E. in Computer Science, 2021 ~ 2025 (expected)         
-GPA: 3.9/4.0 (top 3%)        
+GPA: 3.9/4.0 (top 3%)         -->
 
-# Experience
 
-<img src="images/../../images/logos/ailab.png" alt="ailab" style="float: right; margin-right: 0px; ; width: 110px; height: 80px;" />
 
-* **Shanghai Artificial Intelligence Laboratory**            
-Research Intern @ [OpenGVLab](https://github.com/OpenGVLab), 2024.9 ~ Present 
-Research Topic: Large Language Models 
-Advisor: [Yu Cheng](https://ych133.github.io/)  
+# 📑 Publications
+
+<!-- <div class='paper-box'>
+<div class='paper-box-text' markdown="1"> -->
+* **Diffusion Language-Shapelets for Semi-supervised Time-series Classification**           
+Zhen Liu, Wenbin Pei, **Disen Lan**, Qianli Ma       
+AAAI, 2024. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29317) [[Code]](https://github.com/qianlima-lab/DiffShape)
+
+* **Time-SSM: Simplifying and Unifying State Space Models for Time Series Forecasting**           
+Jiaxi Hu, **Disen Lan**, Ziyu Zhou, Qingsong Wen, Yuxuan Liang     
+arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2405.16312) 
+
+# 🚶Experience
+
+<img src="images/../../images/logos/ailab.png" alt="ailab" style="float: right; margin-right: -10px; ; width: 140px; height: 100px;" />
+
+- **Shanghai Artificial Intelligence Laboratory**            
+  Research Intern @ [OpenGVLab](https://github.com/OpenGVLab), 2024.9 ~ Present   
+  Research Topic: Large Language Models  
+  Advisor: [Yu Cheng](https://ych133.github.io/)  
 
 <img src="images/../../images/logos/tencent.png" alt="Tencent" style="float: right; margin-right: -18px;margin-top: 30px; ; width: 150px; height: 30px;" />
 
@@ -75,20 +88,7 @@ Advisor: [Yu Cheng](https://ych133.github.io/)
   Research Topic: Time series analysis   
   Advisor: [Qianli Ma](https://www2.scut.edu.cn/qianlima/English/list.htm)       
 
-# Publications
-
-<!-- <div class='paper-box'>
-<div class='paper-box-text' markdown="1"> -->
-* **Diffusion Language-Shapelets for Semi-supervised Time-series Classification**           
-Zhen Liu, Wenbin Pei, **Disen Lan**, Qianli Ma       
-AAAI, 2024. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29317) [[Code]](https://github.com/qianlima-lab/DiffShape)
-
-* **Time-SSM: Simplifying and Unifying State Space Models for Time Series Forecasting**           
-Jiaxi Hu, **Disen Lan**, Ziyu Zhou, Qingsong Wen, Yuxuan Liang     
-arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2405.16312) 
-
-
-# Honors & Awards
+# 🎖 Honors & Awards
 * National Scholarship, 2022 & 2023 (twice, top 0.2% nationwide)
 * Tencent Enterprise First Prize Scholarship, 2023
 * Interdisciplinary Contest In Modeling (ICM): Finalist, 2023 (top 2% worldwide)
@@ -98,6 +98,13 @@ arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2405.16312)
 * Asia and Pacific Mathematical Contest in Modeling (APMCM): Second Prize, 2023
 * Greater Bay Area Cup Guangdong-Hong Kong-Macao Financial Mathematical Modeling Competition: First Prize, 2022
 <!-- * MathorCup College Mathematical Modeling Challenge: Third Prize, 2023  -->
+
+# 💻 Academic Service
+
+**Conference Reviewer**
+- International Conference on Learning Representations (ICLR): 2025
+
+
 
 <!-- A data-driven personal website
 ======

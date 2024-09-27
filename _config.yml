@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Guangzhou, China"
+locale                   : "Shanghai, China"
 title                    : "Disen Lan"
 title_separator          : "-"
 name                     : &name "Disen Lan"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Disen Lan (蓝迪森)"
   avatar           : "photo1.png" # my photo
-  bio              : # "Undergraduate Student at SCUT\ndisenlan1002 AT gmail DOT com" # "Your biography for the left-hand sidebar"
+  bio              : "Undergraduate Student at SCUT" # "Your biography for the left-hand sidebar"
   location         : "Shanghai, China"
   employer         : # SCUT
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
