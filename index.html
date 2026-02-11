@@ -1,371 +1,198 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<!doctype html>
+<html lang="en">
 <head>
-<link rel="shortcut icon" href="myIcon.ico">
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta name="keywords" content="Disen Lan"> 
-<meta name="description" content="Disen Lan's Homepage">
-<meta name="google-site-verification" content="yy_3iiS_X6pJdegdwitJMrH0LRLHXwpjrV9RKLXxKjg" />
-<meta name="google-site-verification" content="yy_3iiS_X6pJdegdwitJMrH0LRLHXwpjrV9RKLXxKjg" />
-<link rel="stylesheet" href="configs/jemdoc.css" type="text/css">
-<title>Disen Lan's Homepage</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Disen Lan's Homepage">
+  <meta name="keywords" content="Disen Lan">
+  <meta name="google-site-verification" content="yy_3iiS_X6pJdegdwitJMrH0LRLHXwpjrV9RKLXxKjg">
+  <title>Disen Lan</title>
+  <style>
+    html {
+      position: relative;
+      min-height: 100%;
+    }
+
+    body {
+      margin-bottom: 60px;
+      font-family: Palatino, STSong;
+    }
+
+    .container {
+      width: auto;
+      max-width: 680px;
+      padding: 0 15px;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 50px;
+    }
+
+    .name {
+      margin-top: 40px;
+      font-size: 40px;
+      font-weight: 600;
+    }
+
+    .weburl {
+      margin-top: 10px;
+      font-weight: lighter;
+      font-size: larger;
+    }
+
+    .self-intro {
+      margin-top: 50px;
+      margin-bottom: 50px;
+    }
+
+    .public_container {
+      margin-top: 40px;
+    }
+
+    .public_container > h3 {
+      margin-bottom: 20px;
+    }
+
+    h3 {
+      font-size: 25px;
+    }
+
+    p {
+      line-height: 1.8;
+    }
+
+    a {
+      color: #007bff;
+      text-decoration: none;
+      background-color: transparent;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .publititle {
+      font-weight: 600;
+      font-size: 17px;
+    }
+
+    strong {
+      font-size: 17px;
+    }
+
+    .footer {
+      position: absolute;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      bottom: 0;
+      width: 100%;
+      height: 60px;
+      line-height: 60px;
+      background-color: #f5f5f5;
+    }
+
+    .footer-text {
+      display: flex;
+      flex-direction: row;
+      margin-right: 30px;
+      color: #868e96 !important;
+      align-items: center;
+    }
+
+    .footer-text:hover {
+      text-decoration: underline;
+    }
+  </style>
 </head>
-
 <body>
-<div id="layout-content" style="margin-top:25px">
-<table>
-	<tbody>
-		<tr>
-			<td width="670">
-				<div id="toptitle">					
-					<h1>Disen Lan (蓝迪森)</h1>
-					<br>
-                    Ph.D. Student <br>
-                    School of Computer Science <br>
-                    Fudan University <br>
-                    Email: disenlan1002 AT gmail DOT com
-	
-					<!-- I am a final year undergraduate student majoring in computer science at the <a href="https://www2.scut.edu.cn/cs/">School of Computer Science & Engineering</a>, <a href="https://www.scut.edu.cn/en/">South China University of Technology</a>,
-	
-					and an incoming Ph.D. in the <a href="https://cs.fudan.edu.cn/">School of Computer Science</a> at <a href="https://www.fudan.edu.cn/en/">Fudan University</a> for 2025 fall intake, advised by <a href="https://ych133.github.io/">Prof. Yu Cheng</a> and <a href="https://xpqiu.github.io/">Prof. Xipeng Qiu</a>.
-                    
-                    <br><br>
-                    My research interests focus on <b>Efficient (Multi-modal) Large Language Models</b> for sequence modeling, reasoning and generation. -->
-				
-				
-				</div>
-				<p> <a href="mailto:disenlan1002@gmail.com"><img src="./figs/logos/email.png" height="30px" style="margin-bottom:-3px"></a>
-					<a href="https://scholar.google.com/citations?user=731TwgUAAAAJ&hl=zh-CN"><img src="./figs/logos//scholar.png" height="30px" style="margin-bottom:-3px"></a>
-					<a href="https://github.com/LanDisen"><img src="./figs/logos/github.png" height="30px" style="margin-bottom:-3px"></a>
-				</p>
-			</td>
-			<!-- <td>
-				<img src="./figs/logos/my_photo.png" border="0" width="180"><br>
-			</td> -->
-		</tr>
-	</tbody>
-</table>
+  <div class="container">
+    <div class="name">Disen Lan<span style="font-size: 0.6em; margin-left: 0.2em;">蓝迪森</span></div>
+    <p class="weburl">disenlan1002 [at] gmail.com</p>
+    <div class="self-intro">
+      <h3>About</h3>
+      <p>I am a first-year Ph.D. student (2025 Fall) in the <a href="https://cs.fudan.edu.cn/" target="_blank" rel="noreferrer">School of Computer Science</a>, <a href="https://www.fudan.edu.cn/en/" target="_blank" rel="noreferrer">Fudan University</a>, advised by <a href="https://ych133.github.io/" target="_blank" rel="noreferrer">Prof. Yu Cheng</a> and <a href="https://xpqiu.github.io/" target="_blank" rel="noreferrer">Prof. Xipeng Qiu</a>. I am currently a research intern at <a href="https://seed.bytedance.com/en/" target="_blank" rel="noreferrer">ByteDance Seed</a>, working on efficiency.</p>
+    </div>
 
-<h2>About Me</h2>
+    <div class="public_container">
+      <h3>Publications</h3>
+      <p><strong class="publititle">Liger: Linearizing Large Language Models to Gated Recurrent Structures</strong><br>
+        <u>Disen Lan</u>, Weigao Sun, Jiaxi Hu, Jusen Du, Yu Cheng<br>
+        ICML, 2025<br>
+      </p>
 
-<!-- I am a final year undergraduate student majoring in computer science at the <a href="https://www2.scut.edu.cn/cs/">School of Computer Science & Engineering</a>, <a href="https://www.scut.edu.cn/en/">South China University of Technology</a>,
-	
-and an incoming Ph.D. in the <a href="https://cs.fudan.edu.cn/">School of Computer Science and Artificial Intelligence</a> at <a href="https://www.fudan.edu.cn/en/">Fudan University</a> for 2025 fall intake, advised by <a href="https://ych133.github.io/">Prof. Yu Cheng</a> and <a href="https://xpqiu.github.io/">Prof. Xipeng Qiu</a>. -->
+      <p><strong class="publititle">TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models</strong><br>
+        Harold Haodong Chen*, <u>Disen Lan</u>*, Wen-Jie Shu*, Qingyang Liu, Zihan Wang, Sirui Chen, Wenkai Cheng, Kanghao Chen, Hongfei Zhang, Zixin Zhang, Rongjin Guo, Yu Cheng, Ying-Cong Chen<br>
+        arXiv preprint
+      </p>
 
-I am a first year Ph.D. student (2025 Fall) in the <a href="https://cs.fudan.edu.cn/">School of Computer Science and Artificial Intelligence</a>, <a href="https://www.fudan.edu.cn/en/">Fudan University</a>, advised by <a href="https://ych133.github.io/">Prof. Yu Cheng @ CUHK</a> and <a href="https://xpqiu.github.io/">Prof. Xipeng Qiu @ FDUNLP</a>. Before that, I obtained my bachlor degree of computer science from the <a href="https://www2.scut.edu.cn/cs/">School of Computer Science & Engineering</a>, <a href="https://www.scut.edu.cn/en/">South China University of Technology</a> in 2025.  I am currently interning at <a href="https://seed.bytedance.com/en/"> ByteDance Seed</a>.
-	
+      <p><strong class="publititle">Speed Always Wins: A Survey on Efficient Architectures for Large Language Models</strong><br>
+        Weigao Sun, Jiaxi Hu, Yucheng Zhou, Jusen Du, <u>Disen Lan</u>, Tong Zhu, Kexin Wang, Xiaoye Qu, Yu Zhang, Xiaoyu Mo, Daizong Liu, Yuxuan Liang, Wenliang Chen, Guoqi Li, Yu Cheng<br>
+        arXiv preprint<br>
+      </p>
 
-<br><br>
-My research interests focus on <b>Efficient (Multi-modal) Large Language Models</b> for sequence modeling, understanding, reasoning and generation.
+      <p><strong class="publititle">Linear-MoE: Linear Sequence Modeling Meets Mixture-of-Experts</strong><br>
+        Weigao Sun, <u>Disen Lan</u>, Tong Zhu, Xiaoye Qu, Yu Cheng<br>
+        ICLR SCOPE Workshop, 2025 (Oral, Outstanding Paper Honorable Mention)<br>
+      </p>
 
+      <p><strong class="publititle">LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its Hybrid</strong><br>
+        Weigao Sun, <u>Disen Lan</u>, Yiran Zhong, Xiaoye Qu, Yu Cheng<br>
+        arXiv preprint, 2025<br>
+      </p>
 
-<h2>Publications</h2>
+      <p><strong class="publititle">MoM: Linear Sequence Modeling with Mixture-of-Memories</strong><br>
+        Jusen Du, Weigao Sun, <u>Disen Lan</u>, Jiaxi Hu, Tao Zhang, Yu Cheng<br>
+        ICLR, 2026<br>
+      </p>
 
+      <p><strong class="publititle">Comba: Improving Bilinear RNNs with Closed-loop Control</strong><br>
+        Jiaxi Hu, Yongqi Pan, Jusen Du, <u>Disen Lan</u>, Xiaqiang Tang, Qingsong Wen, Yuxuan Liang, Weigao Sun<br>
+        NeurIPS, 2025 (Spotlight)<br>
+      </p>
 
-<ul style="list-style: none; padding-left: 0;">
-    <li style="display: flex; align-items: center; gap: 25px; margin-bottom: 15px;">
-        <div style="flex: 0 0 150px;">
-            <img src="./figs/papers/liger.png" 
-                 style="width: 100%; height: 100%; box-shadow: 4px 4px 4px #888888;">
-        </div>
-        <div style="flex-grow: 1;">
-            <a href="https://arxiv.org/abs/2503.01496" target="_blank">Liger: Linearizing Large Language Models to Gated Recurrent Structures</a><br>
-            <u><b>Disen Lan</b></u>, Weigao Sun, Jiaxi Hu, Jusen Du, Yu Cheng 
-            <br><em>International Conference on Machine Learning (<b>ICML</b>), 2025</em>
-        </div>
-    </li>
-</ul>
+      <p><strong class="publititle">Diffusion Graph Model for Time Series Anomaly Detection via Anomaly-aware Graph Sparsification and Augmentation</strong><br>
+        <u>Disen Lan</u>*, Guibin Zhang*, Rongjin Guo<br>
+        WWW AI4TS Workshop, 2025 (Oral)
+      </p>
 
-<ul style="list-style: none; padding-left: 0;">
-    <li style="display: flex; align-items: center; gap: 25px; margin-bottom: 15px;">
-        <div style="flex: 0 0 150px;">
-            <img src="./figs/papers/tivibench.png" 
-                 style="width: 100%; height: 70px; box-shadow: 4px 4px 4px #888888;">
-        </div>
-        <div style="flex-grow: 1;">
-            <a href="#" target="_blank">TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models</a><br>
-            Harold Haodong Chen*, <u><b>Disen Lan*</b></u>, Wen-Jie Shu*, Qingyang Liu, Zihan Wang, Sirui Chen, Wenkai Cheng, Kanghao Chen, Hongfei Zhang, Zixin Zhang, Rongjin Guo, Yu Cheng, Ying-Cong Chen
-            <br><em>arXiv Preprint</em>
-        </div>
-    </li>
-</ul>
+      <p><strong class="publititle">How to Train Your Mamba for Time Series Forecasting</strong><br>
+        Jiaxi Hu, <u>Disen Lan</u>, Ziyu Zhou, Gefeng Luo, Qingsong Wen, Yuxuan Liang<br>
+        KDD, 2026<br>
+      </p>
 
-<ul style="list-style: none; padding-left: 0;">
-    <li style="display: flex; align-items: center; gap: 25px; margin-bottom: 15px;">
-        <div style="flex: 0 0 150px;">
-            <img src="./figs/papers/efficient_arch.png" 
-                 style="width: 100%; height: 70px; box-shadow: 4px 4px 4px #888888;">
-        </div>
-        <div style="flex-grow: 1;">
-            <a href="https://arxiv.org/abs/2508.09834" target="_blank">Speed Always Wins: A Survey on Efficient Architectures for Large Language Models</a><br>
-            Weigao Sun*, Jiaxi Hu*, Yucheng Zhou*, Jusen Du*, <u><b>Disen Lan*</b></u>, Tong Zhu*, Kexin Wang*, Xiaoye Qu*, Yu Zhang, Xiaoyu Mo, Daizong Liu, Yuxuan Liang, Wenliang Chen, Guoqi Li, Yu Cheng 
-            <br><em>arXiv Preprint</em>
-        </div>
-    </li>
-</ul>
+      <p><strong class="publititle">Diffusion Language-Shapelets for Semi-supervised Time-Series Classification</strong><br>
+        Zhen Liu, Wenbin Pei, <u>Disen Lan</u>, Qianli Ma<br>
+        AAAI, 2024<br>
+      </p>
 
+      <p><strong class="publititle">TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series Forecasting</strong><br>
+        Yifan Hu*, Guibin Zhang*, Peiyuan Liu*, <u>Disen Lan</u>, Naiqi Li, Dawei Cheng, Tao Dai, Shu-Tao Xia, Shirui Pan<br>
+        ICML, 2025<br>
+      </p>
 
-<ul style="list-style: none; padding-left: 0;">
-    <li style="display: flex; align-items: center; gap: 25px; margin-bottom: 15px;">
-        <div style="flex: 0 0 150px;">
-            <img src="./figs/papers/linear-moe.png" 
-                 style="width: 100%; height: 100%; box-shadow: 4px 4px 4px #888888;">
-        </div>
-        <div style="flex-grow: 1;">
-            <a href="https://arxiv.org/abs/2503.05447" target="_blank">Linear-MoE: Linear Sequence Modeling Meets Mixture-of-Experts</a><br>
-			Weigao Sun, <u><b>Disen Lan</b></u>, Tong Zhu, Xiaoye Qu, Yu Cheng 
-            <br><em>International Conference on Learning Representations (<b>ICLR</b>) on SCOPE Workshop, 2025</em>
-            <br>
-			<font color="#FF0000"><em>Oral Presentation </em>&<em> Outstanding Paper Honorable Mention</em></font> 🏆
-        </div>
-    </li>
-</ul>
+      <p><strong class="publititle">Go with Your Gut: Scaling Confidence for Autoregressive Image Generation</strong><br>
+        Harold Haodong Chen*, Xianfeng Wu*, Wen-Jie Shu, Rongjin Guo, <u>Disen Lan</u>, Harry Yang, Ying-Cong Chen<br>
+        arXiv preprint, 2025<br>
+        <!-- [ <a href="https://arxiv.org/abs/2509.26376" target="_blank" rel="noreferrer">paper</a> ] -->
+      </p>
 
-<ul style="list-style: none; padding-left: 0;">
-    <li style="display: flex; justify-content: center; align-items: center; gap: 25px; margin-bottom: 15px;">
-        <div style="flex: 0 0 150px;">
-            <img src="./figs/papers/lasp2.png" 
-                 style="width: 100%; height: 100%; box-shadow: 4px 4px 4px #888888;  object-fit: contain;">
-        </div>
-        <div style="flex-grow: 1;">
-            <a href="https://arxiv.org/abs/2502.07563" target="_blank">LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its Hybrid</a><br>
-			Weigao Sun, <u><b>Disen Lan</b></u>, Yiran Zhong, Xiaoye Qu, Yu Cheng 
-            <br><em>arXiv Preprint</em>
-        </div>
-    </li>
-</ul>
+      <!-- <h3>Honors &amp; Awards</h3>
+      <p>National Scholarship (three times): 2022, 2023, 2024<br>
+        Tencent Enterprise First Prize Scholarship, 2024<br>
+        Xiaomi Scholarship, 2025<br>
+        ICM Finalist (Top 2% globally), 2023<br>
+        China Undergraduate Mathematical Contest in Modeling (Guangdong): First Prize, 2023<br>
+        The Chinese Mathematics Competitions (Guangdong): First Prize, 2022<br>
+        Lan Qiao Cup Programming Competitions (Guangdong): First Prize, 2024<br>
+        Greater Bay Area Cup Guangdong-Hong Kong-Macao Financial Mathematical Modeling: First Prize, 2022<br>
+        APMCM: Second Prize, 2023
+      </p> -->
 
-<ul style="list-style: none; padding-left: 0;">
-    <li style="display: flex; align-items: center; gap: 25px; margin-bottom: 15px;">
-        <div style="flex: 0 0 150px;">
-            <img src="./figs/papers/mom.png" 
-                 style="width: 100%; height: 80px; box-shadow: 4px 4px 4px #888888; object-fit: contain;">
-        </div>
-        <div style="flex-grow: 1;">
-            <a href="https://arxiv.org/abs/2502.13685" target="_blank">MoM: Linear Sequence Modeling with Mixture-of-Memories</a><br>
-            Jusen Du, Weigao Sun, <u><b>Disen Lan</b></u>, Jiaxi Hu, Yu Cheng 
-            <br><em>arXiv Preprint</em>
-        </div>
-    </li>
-</ul>
+      <!-- <h3>Service</h3>
+      <p>Conference Reviewer: ICLR 2026, CVPR 2026, ICLR 2025, CVPR 2025, ACL 2025</p>
+      <br> -->
+    </div>
+  </div>
 
-<ul style="list-style: none; padding-left: 0;">
-    <li style="display: flex; align-items: center; gap: 25px; margin-bottom: 15px;">
-        <div style="flex: 0 0 150px;">
-            <img src="./figs/papers/comba.png" 
-                 style="width: 100%; height: 80px; box-shadow: 4px 4px 4px #888888; object-fit: contain;">
-        </div>
-        <div style="flex-grow: 1;">
-            <a href="https://arxiv.org/abs/2506.02475" target="_blank">Comba: Improving Bilinear RNNs with Closed-loop Control</a><br>
-            Jiaxi Hu, Yongqi Pan, Jusen Du, <u><b>Disen Lan</b></u>, Xiaqiang Tang, Qingsong Wen, Yuxuan Liang, Weigao Sun
-            <br><em>Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2025</em>
-            <br>
-            <font color="#FF0000"><em>Spotlight</em></font>
-        </div>
-    </li>
-</ul>
-
-
-<ul style="list-style: none; padding-left: 0;">
-    <li style="display: flex; align-items: center; gap: 25px; margin-bottom: 15px;">
-        <div style="flex: 0 0 150px;">
-            <img src="./figs/papers/dig.png" 
-                 style="width: 100%; height: 100%; box-shadow: 4px 4px 4px #888888;">
-        </div>
-        <div style="flex-grow: 1;">
-            <a href="#" target="_blank">Diffusion Graph Model for Time Series Anomaly Detection via
-                Anomaly-aware Graph Sparsification and Augmentation</a><br>
-			<u><b>Disen Lan*</b></u>, Guibin Zhang*, Rongjin Guo 
-            <br><em>International World Wide Web Conference (<b>WWW</b>) on AI4TS Workshop, 2025</em>
-            <br>
-			<font color="#FF0000"><em>Oral Presentation</em></font>
-        </div>
-    </li>
-</ul>
-
-<ul style="list-style: none; padding-left: 0;">
-    <li style="display: flex; align-items: center; gap: 25px; margin-bottom: 15px;">
-        <div style="flex: 0 0 150px;">
-            <img src="./figs/papers/time-ssm.png" 
-                 style="width: 100%; height: 70px; box-shadow: 4px 4px 4px #888888;">
-        </div>
-        <div style="flex-grow: 1;">
-            <a href="https://arxiv.org/abs/2405.16312" target="_blank">How to Train Your Mamba for Time Series Forecasting</a><br>
-            Jiaxi Hu, <u><b>Disen Lan</b></u>, Ziyu Zhou, Gefeng Luo, Qingsong Wen, Yuxuan Liang
-            <br><em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD</b>), 2026</em>
-        </div>
-    </li>
-</ul>
-
-
-<ul style="list-style: none; padding-left: 0;">
-    <li style="display: flex; align-items: center; gap: 25px; margin-bottom: 15px;">
-        <div style="flex: 0 0 150px;">
-            <img src="./figs/papers/diffshape.jpg" 
-                 style="width: 100%; height: 100%; box-shadow: 4px 4px 4px #888888;">
-        </div>
-        <div style="flex-grow: 1;">
-            <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29317" target="_blank">Diffusion Language-Shapelets for Semi-supervised Time-Series Classifcation</a><br>
-            Zhen Liu, Wenbin Pei, <u><b>Disen Lan</b></u>, Qianli Ma 
-            <br><em>Annual AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2024</em>
-        </div>
-    </li>
-</ul>
-
-<ul style="list-style: none; padding-left: 0;">
-    <li style="display: flex; align-items: center; gap: 25px; margin-bottom: 15px;">
-        <div style="flex: 0 0 150px;">
-            <img src="./figs/papers/timefilter.png" 
-                 style="width: 100%; height: 80px; box-shadow: 4px 4px 4px #888888;">
-        </div>
-        <div style="flex-grow: 1;">
-            <a href="https://arxiv.org/abs/2501.13041" target="_blank">TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series Forecasting</a><br>
-            Yifan Hu*, Guibin Zhang*, Peiyuan Liu*, <u><b>Disen Lan</b></u>,  Naiqi Li, Dawei Cheng, Tao Dai, Shu-Tao Xia, Shirui Pan
-            <br><em>International Conference on Machine Learning (<b>ICML</b>), 2025</em>
-        </div>
-    </li>
-</ul>
-
-
-<ul style="list-style: none; padding-left: 0;">
-    <li style="display: flex; align-items: center; gap: 25px; margin-bottom: 15px;">
-        <div style="flex: 0 0 150px;">
-            <img src="./figs/papers/scalingar.png" 
-                 style="width: 100%; height: 70px; box-shadow: 4px 4px 4px #888888;">
-        </div>
-        <div style="flex-grow: 1;">
-            <a href="https://arxiv.org/abs/2509.26376" target="_blank">Go with Your Gut: Scaling Confidence for Autoregressive Image Generation</a><br>
-            Harold Haodong Chen*, Xianfeng Wu*, Wen-Jie Shu, Rongjin Guo, <u><b>Disen Lan</b></u>, Harry Yang, Ying-Cong Chen
-            <br><em>arXiv Preprint</em>
-        </div>
-    </li>
-</ul>
-
-
-<!-- 	
-
-<h2>Experience</h2>
-
-<ul style="list-style: none; padding-left: 0;">
-    <li style="display: flex; align-items: center; gap: 25px; margin-bottom: 15px;">
-        <div style="flex: 0 0 150px;">
-            <img src="./figs/logos/bytedance.png" 
-                 style="width: 100%; height: 100%;">
-        </div>
-        <div style="flex-grow: 1;">
-            <a href="https://seed.bytedance.com/en/" target="_blank">ByteDance Seed</a><br>
-			Research Intern, 2025.6~Present <br>
-			Advisor: <a href="https://scholar.google.com/citations?user=CVkM9TQAAAAJ&hl=zh-CN">Xuefeng Xiao</a> <br>
-            Research Topic: Efficient AIGC
-        </div>
-    </li>
-</ul>
-
-
-<ul style="list-style: none; padding-left: 0;">
-    <li style="display: flex; align-items: center; gap: 25px; margin-bottom: 15px;">
-        <div style="flex: 0 0 150px;">
-            <img src="./figs/logos/ailab.png" 
-                 style="width: 100%; height: 100%;">
-        </div>
-        <div style="flex-grow: 1;">
-            <a href="https://www.shlab.org.cn" target="_blank">Shanghai Artificial Intelligence Laboratory</a><br>
-			Research Intern, 2024.9~2025.3 <br>
-			Advisor: <a href="https://weigao266.github.io/">Dr. Weigao Sun</a> and <a href="https://ych133.github.io/">Prof. Yu Cheng</a> <br>
-            Research Topic: Efficient Large Language Models
-        </div>
-    </li>
-</ul>
-
-<ul style="list-style: none; padding-left: 0;">
-    <li style="display: flex; align-items: center; gap: 25px; margin-bottom: 15px;">
-        <div style="flex: 0 0 150px;">
-            <img src="./figs/logos/tencent.png" 
-                 style="width: 100%; height: 100%;">
-        </div>
-        <div style="flex-grow: 1;">
-            <a href="https://www.tencent.com/en-us/" target="_blank">Tencent</a><br>
-			Research Intern, 2024.6~2024.8 <br>
-            Research Topic: Natural Language Processing, Time Series Modeling
-        </div>
-    </li>
-</ul>
-
-<ul style="list-style: none; padding-left: 0;">
-    <li style="display: flex; align-items: center; gap: 25px; margin-bottom: 15px;">
-        <div style="flex: 0 0 150px;">
-            <img src="./figs/logos/hkustgz.png" 
-                 style="width: 100%; height: 100%;">
-        </div>
-        <div style="flex-grow: 1;">
-            <a href="https://www.hkust-gz.edu.cn/" target="_blank">The Hong Kong University of Science and Technology (Guangzhou)</a><br>
-			Research Intern, 2023.8~2024.5 <br>
-			Advisor: <a href="https://yuxuanliang.com/">Prof. Yuxuan Liang</a> <br>
-            Research Topic: Time Series Analysis, Spatio-temporal Data Mining
-        </div>
-    </li>
-</ul>
-
-<ul style="list-style: none; padding-left: 0;">
-    <li style="display: flex; align-items: center; gap: 25px; margin-bottom: 15px;">
-        <div style="flex: 0 0 150px;">
-            <img src="./figs/logos/scut.png" 
-                 style="width: 100%; height: 100%;">
-        </div>
-        <div style="flex-grow: 1;">
-            <a href="https://www.scut.edu.cn/en/" target="_blank">South China University of Technology</a><br>
-			Research Intern, 2023.3~2023.8 <br>
-			Advisor: <a href="https://www2.scut.edu.cn/qianlima/English/list.htm">Prof. Qianli Ma</a> <br>
-			Research Topic: Time Series Analysis, Diffusion Models
-        </div>
-    </li>
-</ul> -->
-
-
-<h2>Honors &amp; Awards</h2>
-<ul>
-    <li>
-	    National Scholarship (three times): 2022, 2023, 2024
-    </li>
-    <li>
-        Tencent Enterprise First Prize Scholarship, 2024
-    </li>   
-    <li>
-        Xiaomi Scholarship, 2025
-    </li>   
-    <li>
-        Interdisciplinary Contest In Modeling (ICM): Finalist (Top 2% globally), 2023
-    </li>   
-    <li>
-        China Undergraduate Mathematical Contest in Modeling (Guangdong): First Prize, 2023
-    </li>
-    <li>
-        The Chinese Mathematics Competitions (Guangdong): First Prize, 2022
-    </li>  
-    <li>
-        Lan Qiao Cup Programming Competitions (Guangdong): First Prize, 2024
-    </li>
-    <li>
-        Greater Bay Area Cup Guangdong-Hong Kong-Macao Financial Mathematical Modeling: First Prize, 2022
-    </li>  
-    <li>
-        Asia and Pacific Mathematical Contest in Modeling (APMCM): Second Prize, 2023
-    </li>  
-</ul>
-
-
-<h2>Services</h2>
-<ul>
-	<li>	
-	<b>Conference Reviewer:</b> ICLR'2026, CVPR'2026, ICLR'2025, CVPR'2025, ACL'2025
-	</li>
-</ul>
-
-
-
-<!-- <div id="footer">
-	<div id="footer-text"></div>
-</div> -->
 </body>
 </html>
